@@ -1,0 +1,7 @@
+{
+  "name": "نظام الفواتير المستقل - Invoice Manager",
+  "description": "تطبيق مستقل وشامل لإدارة الفواتير، تسجيل الدفعات، تصفية الحالات، الطباعة وتصدير PDF والنسخ الاحتياطي مع حفظ محلي فوري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
